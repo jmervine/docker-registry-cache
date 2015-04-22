@@ -1,4 +1,4 @@
-from redis:2.8
+from redis:latest
 maintainer Joshua P. Mervine <joshua@mervine.net>
 
 copy redis.conf /usr/local/etc/redis/redis.conf
